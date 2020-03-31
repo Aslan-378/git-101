@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: Helvetica;
+    background-color: black;
 }
 
 #logo {
@@ -9,6 +10,7 @@ body {
 }
 
 #container {
+    color: white;
     display: flex;
     align-items: center;
     align-content: center;
